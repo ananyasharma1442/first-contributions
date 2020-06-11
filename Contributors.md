@@ -24,6 +24,7 @@
 - [Bruno Rito] (https://github.com/ritobruno)
 - [Yingfan Chen](https://github.com/yingfc)
 - Salsabil
+- Ananya Sharma
 - Harshit Gangwar
 - [Eduardo Lodi Marzano](https://github.com/eduardolm)
 - [Ali Najmaldin](https://github.com/OGALI)
@@ -779,7 +780,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Donte Winslow](https://github.com/dontewinslow)
 - [Yash Gupta](https://yashgupta.surge.sh)
 - [Tyler Wallis](https://github.com/tylerwallis95)
-- [Sam Richardson](https://github.com/samjrrr)  
+- [Sam Richardson](https://github.com/samjrrr)
 - [Guillermo Martin](https://github.com/Guillermo-Martin)
 - [Ryan Kavanagh](https://github.com/ryankav)
 - [Pratheek Athreya](https://github.com/pratheekbalaji)
